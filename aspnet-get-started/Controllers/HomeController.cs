@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
+#name controllers
 namespace aspnet_get_started.Controllers
 {
     public class HomeController : Controller
